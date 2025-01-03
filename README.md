@@ -10,5 +10,9 @@ Write a function `solve` that finds the number that appears only once in a list 
 **Example**:\
 `Input: [4,1,2,1,2]`\
 `Output: 4 `
+# 3. Majority Element
+Write a function `solve` that finds the majority element in a list. The majority element appears more than n/2 times where n is the length of the list.
 
-Make sure you `return` your solution, don't print!
+**Example**:\
+`Input: [3,2,3]`\
+`Output: 3 `
