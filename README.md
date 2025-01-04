@@ -16,3 +16,9 @@ Write a function `solve` that finds the majority element in a list. The majority
 **Example**:\
 `Input: [3,2,3]`\
 `Output: 3 `
+# 4. Missing Number
+Write a function `solve` that finds the missing number in a list of numbers from 0 to n. The list is missing one number.
+
+**Example**:\
+`Input: [3,0,1]`\
+`Output: 2 `
