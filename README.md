@@ -22,3 +22,9 @@ Write a function `solve` that finds the missing number in a list of numbers from
 **Example**:\
 `Input: [3,0,1]`\
 `Output: 2 `
+# 5. Valid Anagram
+Write a function `solve` that determines if two strings are anagrams of each other. An anagram is a word formed by rearranging the letters of another word.
+
+**Example**:\
+`Input: "listen", "silent"`\
+`Output: true `
