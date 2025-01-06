@@ -28,3 +28,9 @@ Write a function `solve` that determines if two strings are anagrams of each oth
 **Example**:\
 `Input: "listen", "silent"`\
 `Output: true `
+# 6. Maximum Subarray
+Write a function `solve` that finds the contiguous subarray with the largest sum in a list.
+
+**Example**:\
+`Input: [-2,1,-3,4,-1,2,1,-5,4]`\
+`Output: 6 `
