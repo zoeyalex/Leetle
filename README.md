@@ -34,3 +34,9 @@ Write a function `solve` that finds the contiguous subarray with the largest sum
 **Example**:\
 `Input: [-2,1,-3,4,-1,2,1,-5,4]`\
 `Output: 6 `
+# 7. Valid Parentheses
+Write a function `solve` that determines if a string `s` of parentheses is valid. Valid parentheses must be closed in the correct order.
+
+**Example**:\
+`Input: "()[]{}"`\
+`Output: True `
