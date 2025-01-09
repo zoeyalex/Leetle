@@ -46,3 +46,9 @@ Write a function `solve` that finds two numbers in a list that add up to a targe
 **Example**:\
 `Input: [2, 7, 11, 15], target=9`\
 `Output: [0, 1] `
+# 9. Sliding Window Maximum
+Write a function `solve` that returns the maximum number in each window of size k sliding from left to right in a list. Your function should return a list of ints.
+
+**Example**:\
+`Input: [1,3,-1,-3,5,3,6,7], k=3`\
+`Output: [3,3,5,5,6,7] `
