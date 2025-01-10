@@ -52,3 +52,9 @@ Write a function `solve` that returns the maximum number in each window of size 
 **Example**:\
 `Input: [1,3,-1,-3,5,3,6,7], k=3`\
 `Output: [3,3,5,5,6,7] `
+# 10. First Missing Positive
+Write a function `solve` that finds the first missing positive integer given an unsorted list. That is, the smallest positive integer not in the list.
+
+**Example**:\
+`Input: [3,4,-1,1]`\
+`Output: 2 `
