@@ -58,3 +58,9 @@ Write a function `solve` that finds the first missing positive integer given an 
 **Example**:\
 `Input: [3,4,-1,1]`\
 `Output: 2 `
+# 11. Palindrome Check
+Write a function `solve` that checks if a string is a palindrome, considering only alphanumeric characters and ignoring case.
+
+**Example**:\
+`Input: "A man, a plan, a canal: Panama"`\
+`Output: True `
