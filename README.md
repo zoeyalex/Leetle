@@ -64,3 +64,12 @@ Write a function `solve` that checks if a string is a palindrome, considering on
 **Example**:\
 `Input: "A man, a plan, a canal: Panama"`\
 `Output: True `
+# 12. Count Islands
+Write a function `solve` that counts the number of islands in a 2D grid. An island is surrounded by water (0s) and is formed by connecting adjacent lands (1s) horizontally or vertically.
+
+**Example**:\
+`Input: [`\
+`[1,1,0],`\
+`[0,1,0],`\
+`[1,0,1]]`\
+`Output: 3 `
