@@ -73,3 +73,9 @@ Write a function `solve` that counts the number of islands in a 2D grid. An isla
 `[0,1,0],`\
 `[1,0,1]]`\
 `Output: 3 `
+# 13. Running Sum
+Write a function `solve` that returns the running sum of a list. The running sum is the sum of all elements up to each index.
+
+**Example**:\
+`Input: [1,2,3,4]`\
+`Output: [1,3,6,10] `
