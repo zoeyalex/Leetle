@@ -79,3 +79,9 @@ Write a function `solve` that returns the running sum of a list. The running sum
 **Example**:\
 `Input: [1,2,3,4]`\
 `Output: [1,3,6,10] `
+# 14. Reverse Words
+Write a function `solve` that reverses the words in a string. Words are separated by spaces.
+
+**Example**:\
+`Input: "the sky is blue"`\
+`Output: "blue is sky the" `
