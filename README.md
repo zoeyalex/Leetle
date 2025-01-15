@@ -85,3 +85,15 @@ Write a function `solve` that reverses the words in a string. Words are separate
 **Example**:\
 `Input: "the sky is blue"`\
 `Output: "blue is sky the" `
+# 15. Matrix Rotation
+Write a function `solve` that rotates an `n` x `n` matrix 90 degrees clockwise in-place.
+
+**Example**:\
+`Input: [`\
+`[1,2,3],`\
+`[4,5,6],`\
+`[7,8,9]]`\
+`Output: [`\
+`[7,4,1],`\
+`[8,5,2],`\
+`[9,6,3]] `
